@@ -8,3 +8,4 @@ from _datetime import datetime
 
 azi = datetime.now()
 print(f'hello world {azi}')
+print()
